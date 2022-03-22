@@ -36,7 +36,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'heroes_villains',
+    'super_type',
+    'supers',
     'rest_framework',
 ]
 
