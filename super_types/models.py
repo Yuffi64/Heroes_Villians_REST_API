@@ -3,5 +3,5 @@ from django.db import models
 
 # Create your models here.
 
-class super_type(models.Model):
+class Super_Type(models.Model):
     type = models.CharField(max_length=300)
